@@ -4390,9 +4390,9 @@
     csstype "^3.0.2"
 
 "@types/redux-immutable@^4.0.0":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@types/redux-immutable/-/redux-immutable-4.0.1.tgz#c9645af458cfcbf019b9e6b4185efcc842e3dac5"
-  integrity sha512-bksf7FrNMsoCy1Zn8F9zAYl5FCM6Qzt/Ln5C1knjdDUzczgtioy0Y01VPlm4aZacCr4nVrCsNyVdy36/4SMsKQ==
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@types/redux-immutable/-/redux-immutable-4.0.3.tgz#db92a281aa9a55a7b63bc1f20a233790305a1f06"
+  integrity sha512-wXUApt9ib9MGUqoHUMbQmQhqCkvykMHBW3z/P7DISMigFGpGRQ0kkbv7we0XNiv5sYEtEiZzNCEDm+W6ei04DA==
   dependencies:
     immutable "^4.0.0-rc.1"
     redux "^4.0.0"
